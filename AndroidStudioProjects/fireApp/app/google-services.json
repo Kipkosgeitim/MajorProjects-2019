@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "911000407158",
+    "firebase_url": "https://fireapp-c24d9.firebaseio.com",
+    "project_id": "fireapp-c24d9",
+    "storage_bucket": "fireapp-c24d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911000407158:android:96025fa3fd671a20",
+        "android_client_info": {
+          "package_name": "com.example.timoo.fireApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911000407158-ve5nit2p15me1gdpdt1b02kji726hno1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNcQ87rDrXu_VzG-bwoOz9V0YZGJK-5es"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
